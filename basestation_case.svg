@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="713.09349"
-     inkscape:cy="459.23596"
+     inkscape:zoom="1.979899"
+     inkscape:cx="393.45611"
+     inkscape:cy="297.82619"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -484,7 +484,42 @@
        style="fill:none;stroke:#000000"
        d="m 199.65355,599.36219 0,-15.50197 21.25984,0 0,-37.02756 -21.25984,0 0,-36.67323 21.25984,0 0,-37.02756 -21.25984,0 0,-15.50197"
        inkscape:connector-curvature="0" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4011"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:#008000;font-family:Sans"
+       transform="translate(16.667517,426.80634)"><flowRegion
+         id="flowRegion4013"><rect
+           id="rect4015"
+           width="159.09903"
+           height="73.236061"
+           x="277.28687"
+           y="278.56845"
+           style="stroke:#008000;fill:#008000" /></flowRegion><flowPara
+         id="flowPara4017">H²</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:#008000;font-family:Sans"
+       x="325.7742"
+       y="753.35699"
+       id="text4019"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4021"
+         x="325.7742"
+         y="753.35699">⁓</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4023"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:#008000;font-family:Sans"
+       transform="translate(27.274118,434.38248)"><flowRegion
+         id="flowRegion4025"><rect
+           id="rect4027"
+           width="76.266533"
+           height="13.637053"
+           x="312.13715"
+           y="310.38824"
+           style="stroke:#008000;fill:#008000" /></flowRegion><flowPara
+         id="flowPara4033">ArchimedesPi</flowPara></flowRoot>  </g>
   <g
      id="g3166"
      inkscape:groupmode="layer"

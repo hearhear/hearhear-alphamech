@@ -2,11 +2,13 @@
 	by Liam Marshall for Capacitor.IO/HearHear
 	for G. Carle
 	Thanks to John Whittington (tuna-f1sh) and teppic.
+	ALL DIMENSIONS IN MILLIMETERS UNLESS OTHERWISE SPECIFIED.
 */
 
 /* PCB size */
 pcb_length = 0 /* ENTER THIS */
 pcb_width = 0 /* ENTER THIS */
+pcb_thickness = 1.6
 
 /* Clearances */
 pcb_assembly_bottom_clearance = 0 /* ENTER THIS */
